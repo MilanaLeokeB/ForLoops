@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\ForLoops\HEI\obj\Debug\netcoreapp3.1\HEI.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ForLoops\HEI\obj\Debug\netcoreapp3.1\HEI.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ForLoops\HEI\obj\Debug\netcoreapp3.1\HEI.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ForLoops\HEI\obj\Debug\netcoreapp3.1\HEI.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ForLoops\HEI\bin\Debug\netcoreapp3.1\HEI.exe
+C:\Users\opilane\source\repos\ForLoops\HEI\bin\Debug\netcoreapp3.1\HEI.deps.json
+C:\Users\opilane\source\repos\ForLoops\HEI\bin\Debug\netcoreapp3.1\HEI.runtimeconfig.json
+C:\Users\opilane\source\repos\ForLoops\HEI\bin\Debug\netcoreapp3.1\HEI.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ForLoops\HEI\bin\Debug\netcoreapp3.1\HEI.dll
+C:\Users\opilane\source\repos\ForLoops\HEI\bin\Debug\netcoreapp3.1\HEI.pdb
+C:\Users\opilane\source\repos\ForLoops\HEI\obj\Debug\netcoreapp3.1\HEI.dll
+C:\Users\opilane\source\repos\ForLoops\HEI\obj\Debug\netcoreapp3.1\HEI.pdb
+C:\Users\opilane\source\repos\ForLoops\HEI\obj\Debug\netcoreapp3.1\HEI.genruntimeconfig.cache

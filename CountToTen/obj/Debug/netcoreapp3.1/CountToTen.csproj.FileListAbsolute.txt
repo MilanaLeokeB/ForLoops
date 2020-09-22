@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\ForLoops\CountToTen\bin\Debug\netcoreapp3.1\CountToTen.exe
+C:\Users\opilane\source\repos\ForLoops\CountToTen\bin\Debug\netcoreapp3.1\CountToTen.deps.json
+C:\Users\opilane\source\repos\ForLoops\CountToTen\bin\Debug\netcoreapp3.1\CountToTen.runtimeconfig.json
+C:\Users\opilane\source\repos\ForLoops\CountToTen\bin\Debug\netcoreapp3.1\CountToTen.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ForLoops\CountToTen\bin\Debug\netcoreapp3.1\CountToTen.dll
+C:\Users\opilane\source\repos\ForLoops\CountToTen\bin\Debug\netcoreapp3.1\CountToTen.pdb
+C:\Users\opilane\source\repos\ForLoops\CountToTen\obj\Debug\netcoreapp3.1\CountToTen.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ForLoops\CountToTen\obj\Debug\netcoreapp3.1\CountToTen.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ForLoops\CountToTen\obj\Debug\netcoreapp3.1\CountToTen.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ForLoops\CountToTen\obj\Debug\netcoreapp3.1\CountToTen.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ForLoops\CountToTen\obj\Debug\netcoreapp3.1\CountToTen.dll
+C:\Users\opilane\source\repos\ForLoops\CountToTen\obj\Debug\netcoreapp3.1\CountToTen.pdb
+C:\Users\opilane\source\repos\ForLoops\CountToTen\obj\Debug\netcoreapp3.1\CountToTen.genruntimeconfig.cache
